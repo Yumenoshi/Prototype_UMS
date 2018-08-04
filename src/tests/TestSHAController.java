@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import securityAndDatabase.SHAController;
 
 class TestSHAController {
-	//Only one method tested, becouse other methods are integrated within test
+	//Only one method tested, because other methods are integrated within test
 	
 	
 	@Test
